@@ -32,7 +32,7 @@ Si no tienes más de uno, puedes hacer lo anterior para cada paquete, o tambien 
 ```{r setup, include=FALSE}
 install.packages(c("dplyr", "readcsv"))
 ```
-Con los paquetes instalados y en el library, podemos 
+Con los paquetes instalados y en el library, podemos abrir la base de datos que utilizaremos.
 
 ## Paso: Lectura de datos
 
