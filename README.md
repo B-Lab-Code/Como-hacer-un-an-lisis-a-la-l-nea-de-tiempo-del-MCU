@@ -7,7 +7,7 @@ En este blog explicaré como hacer una grafica en que se pueda ver la evolución
 
 ## Paso 1: Obtener datos
 
-Primero, como necesito información como el presupuesto, ganancias y opinion de la critica, usé la base de datos **Marvel Movie dataset** de M George que se puede encontrar en https://www.kaggle.com/datasets/minisam/marvel-movie-dataset
+Primero, como necesito información como el presupuesto, ganancias y opinion de la critica, usé la base de datos **Marvel Movie dataset** del usuario M George en Kaggle. Lo pueden encontrar en https://www.kaggle.com/datasets/minisam/marvel-movie-dataset
 
 ## Paso 2: Uso de paquetes y limpieza de datos
 
